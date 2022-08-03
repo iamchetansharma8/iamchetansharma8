@@ -1,7 +1,7 @@
-### Hi there , I'm Aman Chauhan 👋
+### Hi there , I'm Chetan Sharma 👋
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetan-sharma-908235194/)](https://www.linkedin.com/in/chetan-sharma-908235194/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetan-sharma-908235194/)](https://www.linkedin.com/in/chetan-sharma-908235194/)
 [![Gmail Badge](https://img.shields.io/badge/-iamchetansharma8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamchetansharma8@gmail.com)](mailto:iamchetansharma8@gmail.com)  
 
 
