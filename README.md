@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chetan Sharma 👋
+# Hi, I'm Chetan 👋
 
 ### Backend Software Engineer · AI Engineer
 
