@@ -2,7 +2,6 @@
 
 # Hi, I'm Chetan 👋
 
-### Software Engineer
 
 Building reliable backend systems by day — and LLM systems from first principles, measured before claimed.
 
