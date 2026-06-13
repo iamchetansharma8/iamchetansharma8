@@ -7,7 +7,7 @@
 Building production backend systems by day — and LLM systems from first principles, measured before claimed.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-sharma-908235194/)
-[![dev.to](https://img.shields.io/badge/dev.to-Read-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](PASTE_DEVTO_URL)
+[![dev.to](https://img.shields.io/badge/dev.to-Read-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chetan_sharma_2b6e1b5ff5c)
 [![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iamchetansharma8)
 [![Gmail](https://img.shields.io/badge/Gmail-iamchetansharma8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamchetansharma8@gmail.com)
 
@@ -46,8 +46,8 @@ Building production backend systems by day — and LLM systems from first princi
 
 I write up what I build and what the numbers actually showed:
 
-- **[Your RAG stack depends on your data. I measured how much.](PASTE_DEVTO_URL)** — a 20-question retrieval eval over the DPDP Act: which RAG knobs are data-dependent, and which aren't
-- **[Earlier writing on Medium](https://medium.com/@iamchetansharma8)** — LLM API cost, hallucinations, and open-source AI
+- **[dev.to](https://dev.to/chetan_sharma_2b6e1b5ff5c)** — applied LLM systems, RAG, and retrieval evaluation
+- **[Medium](https://medium.com/@iamchetansharma8)** — earlier writing on LLM cost, hallucinations, and open-source AI
 
 ---
 
