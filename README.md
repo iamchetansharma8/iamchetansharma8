@@ -22,9 +22,13 @@ I make unpredictable LLMs dependable enough to build real infrastructure on.
 ## 🛠️ Tech I Work With
 
 **Languages:** Python · C++ · JavaScript · SQL
+
 **LLM & AI:** Claude (Anthropic API) · GPT-4o · Llama (fine-tuning) · Whisper · LangGraph · Instructor · structured outputs · prompt engineering
+
 **Retrieval / RAG:** Chroma · Pinecone · OpenSearch (BM25) · hybrid search (RRF) · sentence-transformers · reranking (cross-encoders, Cohere) · retrieval evals (MRR, Hit@k)
+
 **Backend:** FastAPI · Pydantic · Postgres · Redis · MongoDB · MySQL · Node.js · Elasticsearch · OpenSearch
+
 **Infra & Tooling:** Docker · AWS (S3, EKS) · GKE · uv · pytest · structlog · Git · Ansible · Terraform
 
 ## ✍️ Writing
