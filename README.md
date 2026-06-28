@@ -15,7 +15,7 @@ I make unpredictable LLMs dependable enough to build real infrastructure on.
 
 ## 🧑‍💻 About
 
-- 🏦 Backend engineer at **NatWest Group**, working in banking
+- 🏦 Backend engineer at **NatWest Group**
 - 🤖 I build **LLM systems end to end** — pipelines, agents, structured outputs — and the retrieval evals and instrumentation that tell me whether they actually hold up
 - 📐 Lately I keep getting pulled into the layer underneath the tools: what makes a system stay fast and dependable under real load, and what every design choice quietly costs you
 
